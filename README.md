@@ -1,4 +1,4 @@
-# RNA Sequencing analysis pipelines
+# RNA Sequencing analysis pipeline
 Welcome to our code repo where you can find counts table generation pipelines for various sequencing platforms for the 3DBM & NE labs at Neurosurgery Freiburg
 
 ## Optimization
